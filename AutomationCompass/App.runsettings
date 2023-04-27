@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="ChromeBrowser" value="Chrome" />
+		<Parameter name="AppUrl" value="https://dev.myautomationcompass.com" />
+	</TestRunParameters>
+</RunSettings>
+
